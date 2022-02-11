@@ -1,0 +1,57 @@
+body{
+    background: lightslategray;
+    margin:0;
+}
+
+.top-title{
+    background:white;
+    margin:0;
+    text-align: center;
+    color:black;
+    padding:5px;
+    margin-bottom: 20px;
+
+}
+
+.case1{
+    background: white;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    color:black;
+}
+
+.case2{
+    background: white;
+    width: 400px;
+    padding:0px;
+    margin: auto;
+    margin-bottom: 20px;
+}    
+
+.case3{
+    background: white;
+    width: 400px;
+    padding:0px;
+    margin: auto;
+    
+}    
+
+h2, span{
+    display:inline;
+    padding:6px;
+    font-size: small;
+    margin:0;
+}
+
+span{
+    float:right;
+    color:gray;
+    margin:0;
+}
+
+p{
+    padding:10px;
+    margin:0;
+}
+    
